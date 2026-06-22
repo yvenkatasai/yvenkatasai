@@ -1,13 +1,22 @@
-#Hi i'm yvsai
-<h2>i'm into building systems based on Artificial Intelligence, Machine Learning, Large Language Models (LLMs), AI Agents, and automation .<h2><br>
----
+<h1>👋 Hi i'm yvsai<h1>
+<h2>building systems based on Artificial Intelligence, Machine Learning, Large Language Models (LLMs), AI Agents, and automation .<h2><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yapuru-venkatasai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yvsai984858@gmail.com) 
----
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
----
+
+📍 Based in India
+
+🤖 Exploring AI, ML, LLMs & AI Agents
+
+🚀 Building projects and learning by doing
+
+🛠️ Interested in automation and intelligent systems
+
+⚡ Turning ideas into code 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yapuru venkatasai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=yapuru venkatasai&theme=dark&hide_border=false)<br/>
