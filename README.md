@@ -1,4 +1,4 @@
-# Hi👋, I'm venkatasai
+# Hi👋, I'm Venkatasai
 
 **Machine Learning & AI Developer** - Building Intelligent Systems from Scratch 🚀
 
