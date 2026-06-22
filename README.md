@@ -1,6 +1,5 @@
 <h1>👋 Hi i'm yvsai<h1>
-<h2>building systems based on Artificial Intelligence, Machine Learning, Large Language Models (LLMs), AI Agents, and automation .<h2><br>
-
+<h2>building systems based on Artificial Intelligence, Machine Learning, Large Language Models (LLMs), AI Agents, and automation .<h2>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yapuru-venkatasai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yvsai984858@gmail.com) 
 
